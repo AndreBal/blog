@@ -1,4 +1,4 @@
-package by.leverx.bean;
+package by.leverx.entity;
 
 
 import lombok.Data;

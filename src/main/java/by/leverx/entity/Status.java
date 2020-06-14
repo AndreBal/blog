@@ -1,4 +1,4 @@
-package by.leverx.bean;
+package by.leverx.entity;
 
 public enum Status {
     PUBLIC, DRAFT
